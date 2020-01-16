@@ -46,17 +46,8 @@ Practice building a responsive web page using semantic layout and incremental de
 
 ## Mock-Ups
 
-### Mobile
-
-![mobile wireframe](./wireframes/mobile.png)
-
-### Tablet
-
-![tablet wireframe](./wireframes/tablet.png)
-
-### Desktop
-
-![desktop wireframe](./wireframes/desktop.png)
+<!-- https://line25.com/wp-content/uploads/2015/12/Annotating-Wireframes.jpg -->
+![responsive wireframes](./wireframes.jpg)
 
 [TOP](#responsive-code-along)
 
@@ -81,6 +72,7 @@ Practice building a responsive web page using semantic layout and incremental de
 
 * [What is it?](https://en.wikipedia.org/wiki/Responsive_web_design)
 * [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [Simulating Devices](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
 
 ### CSS & Styling
 
